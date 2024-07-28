@@ -1,6 +1,8 @@
 # Go Email Analyzer CLI (WIP)
 **This is work in progress**
 
+We are about to work on this repo.
+
 Analyze your suspicious emails and extract headers, links and hashes.
 
 
